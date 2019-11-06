@@ -1,0 +1,37 @@
+#title {
+    font-family: 'Comic Sans MS';
+    color: black;
+    text-align: center;
+}
+
+#score {
+    font-family: 'Comic Sans MS';
+    color: black;
+    text-align: center;
+}
+
+#restart {
+    font-size: 40px;
+    background-color: red;
+    font-family: 'Comic Sans MS';
+    position: absolute;
+    top: 50px;
+    left: 30px;
+}
+
+img.bg {
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+@media screen and (max-width: 1024px){
+    img.bg {
+    left: 50%;
+    margin-left: -512px; }
+}
