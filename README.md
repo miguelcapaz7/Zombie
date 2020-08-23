@@ -6,4 +6,4 @@ The score is also displayed on the screen where killing the zombie will increase
 
 This game was developed in the Fundamental Web Technologies course at BCIT, in order to learn the basics of HTML, CSS, and JavaScript.
 
-Try the game here: 
+Try the game here: https://miguelcapaz7.github.io/Zombie-Hunter/
